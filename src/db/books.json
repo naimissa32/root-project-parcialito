@@ -1,10 +1,34 @@
 [
   {
-    "id": "b72f94f2-bc09-49e4-85a6-83fd7eaa29c0",
-    "title": "Cien años de soledad",
-    "author": "Gabriel García Márquez",
-    "isbn": "978-3-16-148410-0",
-    "publishedDate": "1967-06-05",
-    "availableCopies": 4
+    "id": "8e422f01-9fad-4eae-aeaa-989be1f1d0d6",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "isbn": "978-950-07-0934-0",
+    "publishedDate": "1963-06-28",
+    "availableCopies": 5
+  },
+  {
+    "id": "2f55897b-5ecb-468e-93f0-f57fb3aca9cf",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "isbn": "978-950-07-0934-0",
+    "publishedDate": "1963-06-28",
+    "availableCopies": 5
+  },
+  {
+    "id": "6664ae22-60cc-403b-abb5-af22ac8ae47b",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "isbn": "978-950-07-0000-0",
+    "publishedDate": "1963-06-28",
+    "availableCopies": 5
+  },
+  {
+    "id": "bc090832-8336-4076-8475-f9115b240750",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "isbn": "978-950-07-0000-0",
+    "publishedDate": "1963-06-28",
+    "availableCopies": 5
   }
 ]

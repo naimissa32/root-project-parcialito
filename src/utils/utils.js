@@ -21,3 +21,12 @@ export const downloadAndSaveCSV = async (url, destinationPath) => {
     throw new Error("Error al descargar o guardar el CSV");
   }
 };
+
+export const writeJsonFile = async (path, data) => {
+  try {
+    await writeFile(path, JSON.stringify(data, null, 2));
+  } catch (error) {
+    console.error("Error escribiendo archivo JSON:", error);
+    throw error;
+  }
+};
