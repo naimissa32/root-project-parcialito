@@ -30,5 +30,13 @@
     "isbn": "978-950-07-0000-0",
     "publishedDate": "1963-06-28",
     "availableCopies": 5
+  },
+  {
+    "id": "451cb548-bc45-4cd7-afe3-63935c1cb263",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "isbn": "978-950-07-0000-0",
+    "publishedDate": "1963-06-28",
+    "availableCopies": 5
   }
 ]
